@@ -16,7 +16,7 @@ I'm Marton, a 20 years old web developer from Hungary.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- 👨‍💻 Html, Css, TypeScript, JavaScript, Lua, C, Go, PHP, C#, Python etc...
 - ⚙️ React, Svelte, Vue
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
